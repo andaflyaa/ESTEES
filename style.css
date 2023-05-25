@@ -307,6 +307,11 @@ header {
     background-size: cover;
 }
 
+.pbtwo {
+    background: url("../FOTOS/ucrania.jpg") center no-repeat;
+    background-size: cover;
+}
+
 
 /*footer*/
 footer {
